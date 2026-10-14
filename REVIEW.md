@@ -1,6 +1,6 @@
 # Profile publication review — October 14, 2026
 
-This repository is a private publication candidate for the GitHub profile README. No public profile change is authorized or claimed by creating this review source.
+Owner approved public profile publication on October14,2026. This repository and its four prepared files are now public. GitHub metadata confirms Java, Nexus and Streaming remain private; no visibility change was made to those sources. Publication does not establish personal contribution/comprehension, production deployment or private-source access.
 
 ## Verified evidence
 
@@ -16,7 +16,7 @@ All three PRs were freshly read as open/draft/unmerged. Their successful runs pr
 
 ## Visibility and pinning
 
-Publishing the profile candidate would expose README.md and this review unless the review is removed or moved before visibility changes. Keep this repository private pending a concrete owner review. Do not change visibility of the three private proof repositories as a side effect.
+The approved release publishes README.md, REVIEW.md, EVIDENCE-MATRIX.csv and ROLE-GUIDE.md. The three private proof repositories remain private. Their code and hosted reports require separately authorized access before an external reviewer can inspect them.
 
 Updated high-signal reviewer ordering after source audit: Ops Intelligence (public under n8n-wf-transfer), Java, Nexus, Streaming, Career Intelligence, WhatsApp Bot. Actual pins remain unchanged. This is a reviewer order, not a claim that private repositories are visible or currently pinned for anonymous recruiters. Actual profile pinning remains unperformed; public-safe source publication or explicitly granted reviewer access is needed for private proof to be inspectable.
 

@@ -26,4 +26,4 @@ Do not invent STAR outcomes. Ask yourself which decisions you personally made, w
 
 ## Recruiter visibility
 
-Java, Nexus and Streaming are private draft sources. The profile candidate can describe them, but a recruiter cannot inspect their code or runs without access. Ops Intelligence is publicly inspectable under the legacy n8n-wf-transfer name, with nine main CI jobs verified. Career Intelligence and WhatsApp remain supporting prototypes. Profile publication, proof-source sharing/public-safe release and actual pinning are separate unfinished steps.
+Java, Nexus and Streaming are private draft sources. The profile candidate can describe them, but a recruiter cannot inspect their code or runs without access. Ops Intelligence is publicly inspectable under the legacy n8n-wf-transfer name, with nine main CI jobs verified. Career Intelligence and WhatsApp remain supporting prototypes. Owner-approved profile publication is complete. Proof-source sharing/public-safe release, actual pinning and owner comprehension remain separate unfinished steps.
