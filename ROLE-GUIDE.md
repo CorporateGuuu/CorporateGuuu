@@ -7,10 +7,10 @@ Read EVIDENCE-MATRIX.csv for separate architecture, language, AWS, IaC, CI, cont
 | Senior Software Engineer | Java + Nexus | API contract, state transition, concurrency and recovery decisions | Personal contribution/comprehension still requires owner review |
 | Backend / Java Engineer | Java | Requester/reviewer separation; immutable receipts; PostgreSQL transaction and outbox | Synthetic auth and receiver, not production delivery |
 | Platform Engineer | Nexus + Java | Tenant/source permissions, version conditions, audit replay and operator endpoints | Operational binding and rollout open |
-| Cloud Engineer | Nexus Dynamo adapter | Conditional persistence and disposable recovery | No deployed AWS architecture claim from a local/disposable adapter |
+| Cloud Engineer | Ops Intelligence Terraform + Nexus Dynamo adapter | Validated network reference plus conditional persistence/recovery | No deployed AWS architecture claim from reference or disposable tests |
 | DevOps Engineer | Exact-head hosted runs | Repeatable tests, restore assertions and image/security gates | No production SLO or incident-response ownership claim |
 | DevSecOps Engineer | Java + Nexus | Server-derived identity, role separation, input rejection and security gates | Production identity/RLS still separate |
-| Full-Stack Engineer | Nexus workspace | Review save/reload, scope-bound selection and ranking refresh | Synthetic browser/API fixture, not live account deployment |
+| Full-Stack Engineer | Ops Intelligence + Nexus workspace | Review save/reload, scope-bound selection and ranking refresh | Synthetic browser/API fixture, not live account deployment |
 | AI Engineer / Applied AI | Nexus as supporting governance evidence | Proposal versus authorized execution; Unknown/evidence holds | Founder scorer is deterministic; it does not prove live-model quality |
 | AI Consultant / Solutions Architect | Nexus + Java | Convert operational constraints into contracts and review gates | No paid engagement, stakeholder acceptance or measured client impact inferred |
 | Modernization / advisory | Java + Streaming | Explain framework compatibility and bounded PostgreSQL tradeoffs | No Kafka/managed warehouse or migration-scale claim |
@@ -26,4 +26,4 @@ Do not invent STAR outcomes. Ask yourself which decisions you personally made, w
 
 ## Recruiter visibility
 
-Java, Nexus and Streaming are private draft sources. The profile candidate can describe them, but a recruiter cannot inspect their code or runs without access. Current public Career Intelligence and WhatsApp sources are supporting prototypes. Profile publication, proof-source sharing/public-safe release and actual pinning are separate unfinished steps.
+Java, Nexus and Streaming are private draft sources. The profile candidate can describe them, but a recruiter cannot inspect their code or runs without access. Ops Intelligence is publicly inspectable under the legacy n8n-wf-transfer name, with nine main CI jobs verified. Career Intelligence and WhatsApp remain supporting prototypes. Profile publication, proof-source sharing/public-safe release and actual pinning are separate unfinished steps.

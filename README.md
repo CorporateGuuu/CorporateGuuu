@@ -14,6 +14,7 @@ My portfolio focuses on Java/Spring, TypeScript and Python, with testable exampl
 
 | Project | What to examine | Access and status |
 | --- | --- | --- |
+| [Ops Intelligence](https://github.com/CorporateGuuu/n8n-wf-transfer) | FastAPI/Next.js tenant/auth/audit platform and Terraform cloud reference | Public source under a legacy repository name; tested reference, no cloud deployment claim |
 | Java Enterprise Workflow | Spring backend, durable workflow/outbox, HTTP contracts and PostgreSQL recovery | Private review source; tested draft changes, not a production deployment |
 | Nexus Tech Hub | TypeScript workflow governance, tenant-aware APIs and evidence-based founder planning | Private review source; integrations and rollout remain in progress |
 | Streaming Analytics Proof | Synthetic PostgreSQL event processing, replay, data quality and bounded recovery | Private review source; tested draft changes |

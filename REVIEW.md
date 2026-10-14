@@ -18,6 +18,6 @@ All three PRs were freshly read as open/draft/unmerged. Their successful runs pr
 
 Publishing the profile candidate would expose README.md and this review unless the review is removed or moved before visibility changes. Keep this repository private pending a concrete owner review. Do not change visibility of the three private proof repositories as a side effect.
 
-Intended high-signal ordering: Java, Nexus, Streaming, Career Intelligence, WhatsApp Bot. This is a reviewer order, not a claim that private repositories are visible or currently pinned for anonymous recruiters. Actual profile pinning remains unperformed; public-safe source publication or explicitly granted reviewer access is needed for private proof to be inspectable.
+Updated high-signal reviewer ordering after source audit: Ops Intelligence (public under n8n-wf-transfer), Java, Nexus, Streaming, Career Intelligence, WhatsApp Bot. Actual pins remain unchanged. This is a reviewer order, not a claim that private repositories are visible or currently pinned for anonymous recruiters. Actual profile pinning remains unperformed; public-safe source publication or explicitly granted reviewer access is needed for private proof to be inspectable.
 
 Do not add Go until the separate meaningful-hiring-gap gate is supported. No job application, recruiter message, merge or deployment is part of this candidate.
